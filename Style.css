@@ -1,0 +1,38 @@
+body{
+   
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #f0f0f0;
+}
+.firsDiv{
+   
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    justify-content: center;
+    background-color: red;
+    height: 500px;
+    width: 500px;
+}
+.dos{
+    border-radius: 20%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: blue;
+    height: 300px;
+    width: 300px;
+}
+.tres{
+    background-color: green;
+    border: 2px solid white;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    
+    
+}
